@@ -19,3 +19,7 @@ for viewing, one can use e.g. napari with the napari-ome-zarr plugin:
 ```
 pip install "napari[all]" napari-ome-zarr
 ```
+
+## Contributors:
+
+Code originally written by [@CamachoDejay](https://github.com/CamachoDejay) and adapted by [@fstur](https://github.com/fstur).
